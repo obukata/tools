@@ -620,18 +620,45 @@ http://sass-compatibility.github.io/
 
 ### ▼ Application
 
-- Alfred
-- Anvil
-- caffeine
-- Dr.Clearner
-- EasyOnTheEyes
-- MacDown
-- SublimeText
-- Brackets
-- VirtualBox
-- transmit
-- sitesucker
+- Alfred（便利系、でもSpotlightあればいらなくない？）
+- Anvil（ローカルホスト簡単に立ててくれるけど、browser-syncあればいらなくない？）
+- caffeine（スリープ防止）
+- CotEditor（Shift-JIS 対応エディター）
+- Dr.Clearner（メモリ管理）
+- EasyOnTheEyes（画面暗くできるよ）
+- MacDown（マークダウンエディタ）
+- SublimeText（超絶メインエディター）
+- Brackets（なんとなく入れてるエディターその1）
+- VirtualBox（仮装環境使えるよwindowsとか。）
+- transmit（FTPファイル転送ソフト、高速）
+- sitesucker（サイトデータをダウンロードしてくれるよ）
 - slack
-- atom
+- atom（なんとなく入れてるエディターその2）
 - sourcetree
-- iTerm2
+- iTerm2（今は使ってないよ）
+- Hyper（iTermに変わってメインで使ってるいい感じターミナル）
+- StuffIt Expander（いろんなもん解凍できるらしい）
+- Skitch（簡易的に画像に文字いれたり便利）
+- Mini Calendar（ステータスバーに小さいカレンダー置いてくれる。便利）
+- Magnet（ウィンドウをショートカットでいい感じに整列できるよ）
+- Clipy（複数コピーできて、履歴からペーストできる便利。）
+
+---
+
+### ▼ npm package
+
+```
+├── bower@1.8.2
+├── browser-sync@1.0.0
+├── browserify@14.5.0
+├── eslint@4.19.1
+├── grunt-cli@1.2.0
+├── gulp-cli@1.4.0
+├── jshint@2.9.5
+├── node-sass@4.7.2
+├── npm@5.6.0
+├── parcel-bundler@1.2.0
+├── stacks-cli@0.1.46（サイトの使用ライブラリーとか環境を解析できる！）
+├── terminalizer@0.2.3（ターミナルの操作を録画してgifで出力）
+└── vue-cli@2.9.2
+```
